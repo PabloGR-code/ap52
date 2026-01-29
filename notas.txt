@@ -1,0 +1,5 @@
+Ana     si  3
+Pepe    pr  5
+Ana     ed  4
+Pepe    ed  2
+Pepe    in  7
